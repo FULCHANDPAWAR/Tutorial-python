@@ -1,0 +1,8 @@
+Check if Number is possitive or negative in python?
+python code.
+num=15
+if num>0;
+print('positive')
+elif num<0;
+print('Negative')
+else:
