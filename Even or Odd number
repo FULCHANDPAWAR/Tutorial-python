@@ -1,0 +1,21 @@
+Check whether the number is even or odd?
+python code
+num=int(input("Enter a number:")
+if num%2==0:
+ print ("Given number is Even")
+ else:
+ print("Given number is Odd")
+ 
+ o/p=Enter a  number=5,Odd.
+ 
+ 
+ USING A BITWISE OPERATOR'S?
+ def is Even (num):
+ return not num&1
+ 
+ if--name--=="--main--":
+ num=13
+ if is Even(num):
+  print('Even')
+  else:
+  print('odd')
